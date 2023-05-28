@@ -38,16 +38,13 @@ The login system will be accessible at http://localhost:3000.
 **Usage**
 <br>
 Open your preferred web browser and navigate to http://localhost:3000.
-<br>
-
+<br><br>
 Register a new account by providing a unique username and password.
-<br>
-
+<br><br>
 Log in with your credentials.
-<br>
+<br><br>
 Explore the account management features, such as updating your details or changing your password.
-<br>
-
+<br><br>
 **Contributing**
 <br>
 Contributions to the login system project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the existing code style and adhere to the project's guidelines.
@@ -55,11 +52,11 @@ Contributions to the login system project are welcome! If you find any issues or
 **License**
 <br>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
-<br>
+<br><br>
 **Contact**
 <br>
 For any questions or inquiries about the login system, please contact us at Linkedin or Instagarm.
-<br>
+<br><br>
 Linkedin: https://www.linkedin.com/in/pranav-malhotra-46551a278
 <br>
 Instagram: https://instagram.com/soul_pranav_/

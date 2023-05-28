@@ -1,7 +1,7 @@
 # Login-System
 This is a repository for a login system. The project aims to provide a secure and user-friendly login system that can be integrated into various web applications.
 
-Features
+### Features
 User registration: Allows new users to create an account with a unique username and password.
 User login: Existing users can log in using their credentials.
 Password hashing: User passwords are securely hashed before storing them in the database.

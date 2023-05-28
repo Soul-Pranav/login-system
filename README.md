@@ -10,12 +10,12 @@ Password recovery: Users can request a password reset if they forget their passw
 Account management: Users can update their account details and change their password.
 Database integration: The login system interacts with a database to store user information securely.
 
-'''
+```
 Installation
 Clone the repository to your local machine using the following command:
 git clone 
 https://github.com/Soul-Pranav/login-system.git
-'''
+```
 
 Navigate to the project directory:
 cd login-system-project

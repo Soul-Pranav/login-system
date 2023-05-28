@@ -3,19 +3,19 @@ This is a repository for a login system. The project aims to provide a secure an
 
 ### Features
 **User registration:** Allows new users to create an account with a unique username and password.
-
+<br>
 **User login:** Existing users can log in using their credentials.
 <br>
 **Password hashing:** User passwords are securely hashed before storing them in the database.
+<br>
 **Session management:** Users are assigned session tokens upon successful login for subsequent authentication.
-
+<br>
 **Password recovery:** Users can request a password reset if they forget their password.
-
+<br>
 **Account management:** Users can update their account details and change their password.
-
+<br>
 **Database integration:** The login system interacts with a database to store user information securely.
-
-
+<br>
 **Installation:** Clone the repository to your local machine using the following command:
 ```
 git clone (https://github.com/Soul-Pranav/login-system.git)

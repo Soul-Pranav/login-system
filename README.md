@@ -5,9 +5,7 @@ This is a repository for a login system. The project aims to provide a secure an
 **User registration:** Allows new users to create an account with a unique username and password.
 
 **User login:** Existing users can log in using their credentials.
-
 **Password hashing:** User passwords are securely hashed before storing them in the database.
-
 **Session management:** Users are assigned session tokens upon successful login for subsequent authentication.
 
 **Password recovery:** Users can request a password reset if they forget their password.

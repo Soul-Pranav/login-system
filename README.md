@@ -44,4 +44,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Contact
 For any questions or inquiries about the login system, please contact us at Linkedin or Instagarm.
 Linkedin: https://www.linkedin.com/in/pranav-malhotra-46551a278.
-Instagram: https://instagram.com/soul_pranav_.
+Instagram: https://instagram.com/soul_pranav_
+

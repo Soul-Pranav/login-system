@@ -35,7 +35,7 @@ npm start
 The login system will be accessible at http://localhost:3000.
 <br>
 
-**Usage**
+**Usage:**
 <br>
 Open your preferred web browser and navigate to http://localhost:3000.
 <br><br>

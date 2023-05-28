@@ -4,17 +4,17 @@ This is a repository for a login system. The project aims to provide a secure an
 ### Features
 **User registration:** Allows new users to create an account with a unique username and password.
 
-User login: Existing users can log in using their credentials.
+**User login:** Existing users can log in using their credentials.
 
-Password hashing: User passwords are securely hashed before storing them in the database.
+**Password hashing:** User passwords are securely hashed before storing them in the database.
 
-Session management: Users are assigned session tokens upon successful login for subsequent authentication.
+**Session management:** Users are assigned session tokens upon successful login for subsequent authentication.
 
-Password recovery: Users can request a password reset if they forget their password.
+**Password recovery:** Users can request a password reset if they forget their password.
 
-Account management: Users can update their account details and change their password.
+**Account management:** Users can update their account details and change their password.
 
-Database integration: The login system interacts with a database to store user information securely.
+**Database integration:** The login system interacts with a database to store user information securely.
 
 ```
 Installation

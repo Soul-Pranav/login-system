@@ -33,24 +33,30 @@ Run the application:
 npm start
 ```
 The login system will be accessible at http://localhost:3000.
-
+<br>
 Usage
+<br>
 Open your preferred web browser and navigate to http://localhost:3000.
-
+<br>
 Register a new account by providing a unique username and password.
-
+<br>
 Log in with your credentials.
-
+<br>
 Explore the account management features, such as updating your details or changing your password.
-
-Contributing
+<br>
+**Contributing**
+<br>
 Contributions to the login system project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the existing code style and adhere to the project's guidelines.
-
-License
+<br>
+**License**
+<br>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
-
-Contact
+<br>
+**Contact**
+<br>
 For any questions or inquiries about the login system, please contact us at Linkedin or Instagarm.
+<br>
 Linkedin: https://www.linkedin.com/in/pranav-malhotra-46551a278
+<br>
 Instagram: https://instagram.com/soul_pranav_/
 

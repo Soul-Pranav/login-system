@@ -20,16 +20,18 @@ This is a repository for a login system. The project aims to provide a secure an
 ```
 git clone (https://github.com/Soul-Pranav/login-system.git)
 ```
-
+```
 Navigate to the project directory:
 cd login-system-project
-
+```
+```
 Install the required dependencies:
 npm install
-
+```
+```
 Run the application:
 npm start
-
+```
 The login system will be accessible at http://localhost:3000.
 
 Usage

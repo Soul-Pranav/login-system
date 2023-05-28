@@ -34,16 +34,20 @@ npm start
 ```
 The login system will be accessible at http://localhost:3000.
 <br>
-Usage
+
+**Usage**
 <br>
 Open your preferred web browser and navigate to http://localhost:3000.
+
 <br>
 Register a new account by providing a unique username and password.
 <br>
+
 Log in with your credentials.
 <br>
 Explore the account management features, such as updating your details or changing your password.
 <br>
+
 **Contributing**
 <br>
 Contributions to the login system project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the existing code style and adhere to the project's guidelines.

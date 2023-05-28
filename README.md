@@ -51,7 +51,7 @@ Explore the account management features, such as updating your details or changi
 **Contributing**
 <br>
 Contributions to the login system project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the existing code style and adhere to the project's guidelines.
-<br><br.
+<br><br>
 **License**
 <br>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.

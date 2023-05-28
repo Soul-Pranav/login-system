@@ -17,9 +17,11 @@ This is a repository for a login system. The project aims to provide a secure an
 **Database integration:** The login system interacts with a database to store user information securely.
 
 
-**Installation**
+Installation:
+```
 Clone the repository to your local machine using the following command:
 git clone https://github.com/Soul-Pranav/login-system.git
+```
 
 Navigate to the project directory:
 cd login-system-project

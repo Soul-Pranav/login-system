@@ -1,7 +1,7 @@
 # Login-System
 This is a repository for a login system. The project aims to provide a secure and user-friendly login system that can be integrated into various web applications.
 ## Demo
-[https://soul-pranav.github.io/login-system/index.html](https://soul-pranav.github.io/login-system/)
+https://soul-pranav.github.io/login-system/
 
 ### Features
 **User registration:** Allows new users to create an account with a unique username and password.
